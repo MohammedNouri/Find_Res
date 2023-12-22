@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Crée la liste des villes -->
+    <string-array name="cities">
+        <item>Safi</item>
+        <item>Marrakech</item>
+        <item>El-jadida</item>
+        <item>Tanger</item>
+    </string-array>
+
+</resources>

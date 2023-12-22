@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Find_Res" parent="Theme.Material3.DayNight">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.Find_Res" parent="Base.Theme.Find_Res" />
+
+    <style name="TextViewStyle">
+        <!-- Créer Ici le Style Taille de text 36sp, textColor #673AB7,Text en center,margin 10dp -->
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">#A21B18</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:layout_margin">10dp</item>
+
+
+    </style>
+</resources>
